@@ -1,1 +1,0 @@
-# SolidityContractsHWUnit20
